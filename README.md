@@ -28,6 +28,16 @@ https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js
 
 7. axios 文件：https://github.com/axios/axios#example
 
+## Data
+
+1. JSON LV1 資料 : https://raw.githubusercontent.com/hexschool/js-training/main/travelAPI-lv1.json
+
+2. JSON LV2 資料 : https://raw.githubusercontent.com/hexschool/js-training/main/travelApi.json
+
+```
+測試資料根據題目放於 data 目錄
+```
+
 
 ## Ref. Code :
 
