@@ -43,7 +43,6 @@ https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js
 測試資料根據題目放於 data 目錄
 ```
 
-
 ## Ref. Code :
 
 1. Jo Yun#8899 : https://codepen.io/Jo_Yun/pen/bGKwgee
@@ -53,8 +52,6 @@ https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js
 3. amy芳#1385 : https://codepen.io/amy-chieng/pen/ExRgMwp
 
 4. Rr#2215 : https://codepen.io/rufangcheng/pen/dyKprgx
-
-5. 
 
 
 ## Info.
