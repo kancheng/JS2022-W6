@@ -28,6 +28,11 @@ https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js
 
 7. axios 文件：https://github.com/axios/axios#example
 
+8. JS2022 第六週 : https://codepen.io/kancheng/pen/MWXJPPW?editors=0010
+
+- https://codepen.io/AliceChiang/pen/rNzqXWY?editors=0010
+
+
 ## Data
 
 1. JSON LV1 資料 : https://raw.githubusercontent.com/hexschool/js-training/main/travelAPI-lv1.json
@@ -46,6 +51,10 @@ https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js
 2. Fan#3405 : https://codepen.io/Fan123/pen/eYKNXQZ
 
 3. amy芳#1385 : https://codepen.io/amy-chieng/pen/ExRgMwp
+
+4. Rr#2215 : https://codepen.io/rufangcheng/pen/dyKprgx
+
+5. 
 
 
 ## Info.
